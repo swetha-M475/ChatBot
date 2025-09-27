@@ -1,0 +1,10 @@
+langchain-google-genai
+langgraph
+fastapi
+uvicorn
+pydantic
+nest-asyncio
+pyngrok
+streamlit
+requests
+typing-extensions
